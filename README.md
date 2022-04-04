@@ -90,4 +90,4 @@ else
 
 # Credits
 
-Thanks to discord user frostiest#6102
+Thanks to discord user frostiest#6102. Link to the original UnknownCheats post [HERE](https://www.unknowncheats.me/forum/anti-cheat-bypass/445826-llvm-obfuscator-9-0-1-step-step-visual-studio.html)
